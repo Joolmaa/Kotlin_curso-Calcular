@@ -1,0 +1,1 @@
+C:\Users\joaol\IdeaProjects\ColecaoDeExercicios\build\classes\kotlin\main\CalcularAreaDoTrianguloKt.class;C:\Users\joaol\IdeaProjects\ColecaoDeExercicios\build\classes\kotlin\main\CalcularMediaPonderadaKt.class;C:\Users\joaol\IdeaProjects\ColecaoDeExercicios\build\classes\kotlin\main\CinversorDeMedidasKt.class
